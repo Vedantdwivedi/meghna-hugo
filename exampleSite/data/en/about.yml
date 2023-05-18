@@ -8,8 +8,9 @@ about:
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Not-for-Profit:
+    content : Somveda is a non-profit organization. Our primary focus is to create a thriving community and provide developers with the resources they need to excel in AI and machine learning. We do not seek monetary gain but rather aim to promote collaboration, knowledge exchange, and the greater good of the AI community as a whole.
+
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Genius
