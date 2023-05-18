@@ -6,8 +6,7 @@ service:
     # service item loop
     - name : Open Source AI Development and Contribution:
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Somveda is dedicated to non-profit open source AI development. Our team actively contributes to open source projects, creating and enhancing AI tools, frameworks, and libraries that are freely accessible to the community. By fostering collaborative development, we aim to advance AI research and democratize access to cutting-edge technologies. Join us in our mission to create impactful open source AI solutions.
-      
+      content : Somveda is dedicated to non-profit open source AI development.      
     # service item loop
     #- name : AI Consulting and Mentorship:
      # icon : ti-layout # themify icon pack : https://themify.me/themify-icons
