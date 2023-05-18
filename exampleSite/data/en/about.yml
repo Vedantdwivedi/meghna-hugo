@@ -4,7 +4,7 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Open Sourse
+    title : Open Source
     content : Open source lies at the core of Somveda's philosophy. We firmly believe in the power of open collaboration, transparency, and shared knowledge. Open source refers to the practice of making source code freely available for anyone to view, use, modify, and distribute.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
