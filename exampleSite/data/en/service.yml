@@ -9,7 +9,7 @@ service:
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
      
     # service item loop
-    - name : AI Consulting and Mentorship:
+    - name : AI Consulting and Mentorship
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : We offer non-profit AI consulting and mentorship services to individuals and organizations. Our team of experienced AI professionals provides guidance on AI strategy, project planning, and implementation. Through mentorship programs, we offer one-on-one support, review projects, and provide feedback to help individuals and organizations navigate the AI landscape. Together, we can drive positive change through AI.
       
