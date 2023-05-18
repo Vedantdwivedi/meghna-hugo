@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Open Source AI Development and Contribution
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-     
+      content : Somveda is dedicated to non-profit open source AI development. Our team actively contributes to open source projects, creating and enhancing AI tools, frameworks, and libraries that are freely accessible to the community. By fostering collaborative development, we aim to advance AI research and democratize access to cutting-edge technologies. Join us in our mission to create impactful open source AI solutions.
+
     # service item loop
     - name : AI Consulting and Mentorship
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : We offer non-profit AI consulting and mentorship services to individuals and organizations. Our team of experienced AI professionals provides guidance on AI strategy, project planning, and implementation. Through mentorship programs, we offer one-on-one support, review projects, and provide feedback to help individuals and organizations navigate the AI landscape. Together, we can drive positive change through AI.
       
     # service item loop
-    #- name : MLOps and Infrastructure Support:
-     # icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      #content : Efficiently managing machine learning operations (MLOps) is crucial for successful AI deployment. We offer non-profit MLOps consulting and infrastructure support, helping organizations streamline their AI workflows. Our experts assist in designing scalable and robust AI pipelines, implementing version control systems, and setting up infrastructure for training and deployment. Maximize the efficiency and reliability of your AI systems with our non-profit MLOps services.    
+    - name : MLOps and Infrastructure Support
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : Efficiently managing machine learning operations (MLOps) is crucial for successful AI deployment. We offer non-profit MLOps consulting and infrastructure support, helping organizations streamline their AI workflows. Our experts assist in designing scalable and robust AI pipelines, implementing version control systems, and setting up infrastructure for training and deployment. Maximize the efficiency and reliability of your AI systems with our non-profit MLOps services.    
     
     # service item loop
-    #- name : Data Science and Analytics:
-     # icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      #content : Unlock the power of data with our non-profit data science and analytics services. We help organizations derive insights from their data, enabling informed decision-making. Our team assists in data preprocessing, exploratory data analysis, statistical modeling, and predictive analytics. By applying data science techniques, we support organizations in extracting meaningful information and driving data-driven strategies without any profit motive.
+    - name : Data Science and Analytics
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Unlock the power of data with our non-profit data science and analytics services. We help organizations derive insights from their data, enabling informed decision-making. Our team assists in data preprocessing, exploratory data analysis, statistical modeling, and predictive analytics. By applying data science techniques, we support organizations in extracting meaningful information and driving data-driven strategies without any profit motive.
 
     # service item loop
-    #- name : AI Research and Development (R&D):
-      #icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      #content : R&D is at the forefront of AI advancement. We undertake non-profit AI R&D projects to explore emerging technologies, solve complex problems, and push the boundaries of AI. Our dedicated researchers collaborate with academic institutions, non-profit organizations, and other research communities to conduct experiments, publish findings, and contribute to the global AI knowledge base. Join us in advancing AI through non-profit research initiatives.
+    - name : AI Research and Development (R&D)
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : R&D is at the forefront of AI advancement. We undertake non-profit AI R&D projects to explore emerging technologies, solve complex problems, and push the boundaries of AI. Our dedicated researchers collaborate with academic institutions, non-profit organizations, and other research communities to conduct experiments, publish findings, and contribute to the global AI knowledge base. Join us in advancing AI through non-profit research initiatives.
 
     # service item loop
-    #- name : AI for Social Impact:
-     # icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      #content : We are passionate about leveraging AI for social impact. Our non-profit AI services focus on addressing societal challenges in areas such as healthcare, education, sustainability, and humanitarian efforts. We collaborate with non-profit organizations and initiatives to develop AI solutions that drive positive change and benefit underserved communities. Together, let's harness the potential of AI to create a better world for all.
+    - name : AI for Social Impact
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : We are passionate about leveraging AI for social impact. Our non-profit AI services focus on addressing societal challenges in areas such as healthcare, education, sustainability, and humanitarian efforts. We collaborate with non-profit organizations and initiatives to develop AI solutions that drive positive change and benefit underserved communities. Together, let's harness the potential of AI to create a better world for all.
