@@ -3,12 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : We would love to hear from you and answer any questions you may have. 
-  Please feel free to reach out to us using the contact information below, Whether you have inquiries about our services, are interested in collaboration opportunities, or simply want to learn more about Somveda and our mission.
-  Our dedicated team is here to assist you.Additionally, we encourage you to join our vibrant community of developers, researchers, and AI enthusiasts by subscribing to our newsletter. 
-  Stay updated with the latest advancements, events, and opportunities in the world of AI.If you prefer a more direct form of communication, you can use the contact form on our website. 
-  Simply provide your name, email address, and a message detailing your inquiry or feedback, and we will get back to you as soon as possible.Thank you for your interest in Somveda. 
-  We look forward to connecting with you and exploring the exciting possibilities of AI together.
+  content : We would love to hear from you and answer any questions you may have.Please feel free to reach out to us using the contact information below, Whether you have inquiries about our services, are interested in collaboration opportunities, or simply want to learn more about Somveda and our mission.Our dedicated team is here to assist you.Additionally, we encourage you to join our vibrant community of developers, researchers, and AI enthusiasts by subscribing to our newsletter. Stay updated with the latest advancements, events, and opportunities in the world of AI.If you prefer a more direct form of communication, you can use the contact form on our website. Simply provide your name, email address, and a message detailing your inquiry or feedback, and we will get back to you as soon as possible.Thank you for your interest in Somveda. We look forward to connecting with you and exploring the exciting possibilities of AI together.
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
