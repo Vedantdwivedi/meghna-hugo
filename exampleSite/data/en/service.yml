@@ -4,9 +4,10 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Open Source AI Development and Contribution:
+    - name : WordPress Theme
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Somveda is dedicated to non-profit open source AI development.      
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+     
     # service item loop
     #- name : AI Consulting and Mentorship:
      # icon : ti-layout # themify icon pack : https://themify.me/themify-icons
