@@ -6,7 +6,7 @@ team:
     # team member loop
     - name : Somesh Choudhary
       image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      image : images/team/team-1.png
       designation : Code Maverick
       content : pioneer open-source developer, pushing boundaries, and crafting groundbreaking solutions that redefine the possibilities of AI technology.
       social :
@@ -22,9 +22,9 @@ team:
     # team member loop
     - name : Vedant Dwivedi
       image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
+      image : images/team/team-2.png
       designation : Evangelist
-      content : Vedant is responsible for promoting the open-source philosophy, advocating for the adoption of open-source technologies, and representing Somveda in conferences, events, and industry forums.
+      content : Vedant is responsible for promoting the open-source philosophy, advocating for the adoption of open-source technologies.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
