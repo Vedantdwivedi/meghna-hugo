@@ -24,7 +24,7 @@ team:
       image_webp : images/team/team-2.webp
       image : images/team/team-2.png
       designation : Evangelist
-      content : Responsible for promoting the open-source philosophy, advocating for the adoption of open-source technologies.
+      content : Responsible for promoting the open-source philosophy, advocating for the adoption of AI & open-source technologies.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
