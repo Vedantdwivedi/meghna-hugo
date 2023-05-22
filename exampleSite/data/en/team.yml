@@ -8,7 +8,7 @@ team:
       image_webp : images/team/team-1.webp
       image : images/team/team-1.png
       designation : Code Maverick
-      content : Pioneer open-source developer, pushing boundaries, and crafting groundbreaking solutions that redefine the possibilities of AI technology.
+      content : Pioneer open-source developer, crafting groundbreaking solutions that redefine the possibilities of AI technology.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
