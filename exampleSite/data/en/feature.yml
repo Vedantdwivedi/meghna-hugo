@@ -3,25 +3,36 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Somveda: Empowering Innovation with Open-Source AI
+  content : "Join Somveda today and become part of a dynamic community driving open-source AI innovation and knowledge sharing. Together, we can shape the future of AI for the betterment of society."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Collaborative Project Development
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Unleash your creativity and make a difference by contributing to open-source AI projects.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Cutting-Edge AI Implementation
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Stay ahead of the curve with our comprehensive resources for expanding your AI skill set.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Knowledge Sharing and Networking
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Connect with AI enthusiasts, researchers, and developers to exchange ideas and stay informed.
+      
+      # feature item loop
+    - title : Real-World Applications
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Witness the transformative impact of open-source AI across diverse industries.
+      
+      # feature item loop
+    - title : AI Research and Development
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Driving innovation through collaborative research and cutting-edge projects.
+      
+      # feature item loop
+    - title : Community Support and Resources
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Empowering AI enthusiasts with a supportive network and valuable resources for success.
+      
