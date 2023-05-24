@@ -4,61 +4,61 @@ pricing:
   title : Our Plans
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : DEV
+      price : $0
+      unit : Month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Ensuring code meets quality standards
+        - Get Community Suport
+        - Fixing bugs and issues
+        - Writing code for new features
+        - Optimizing algorithms for better performance
+        - Writing unit tests for code coverage
       button:
         label : "Signup"
         link : "#"
       
     # pricing table loop
-    - name : Silver
-      price : $149
+    - name : Learner
+      price : $10
+      unit : Year
+      services:
+        - Access the courses made by creator
+        - Get Community access
+        - Ask for a DEV to help you out
+        - Start your own projects
+        - LEarn how the real AI projects work
+        - 24/7 Support
+      button:
+        label : "Signup"
+        link : "#"
+        
+    # pricing table loop
+    - name : Researcher
+      price : Free
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
+        - Proposing new AI algorithms or methodologies
+        - Conducting experiments and benchmarking performance
+        - Publishing research papers or technical articles
+        - Collaborating on cutting-edge research projects
+        - Exploring emerging trends and technologies in AI
         - 24/7 Tech Support
       button:
         label : "Signup"
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
+    - name : Project Owners
+      price : Free
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Execution & Delivery of open-source projects.
+        - Project planning, Resource Management 
+        - They ensure effective communication
+        - Alignment with project goals 
+        - Timely delivery of milestones.
+        - Timeline Tracking, and Coordination among contributors.
       button:
         label : "Signup"
         link : "#"
