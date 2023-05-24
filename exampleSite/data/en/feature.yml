@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : Somveda: Empowering Innovation with Open-Source AI
+  title : Somveda - Empowering Innovation with Open-Source AI
   content : "Join Somveda today and become part of a dynamic community driving open-source AI innovation and knowledge sharing. Together, we can shape the future of AI for the betterment of society."
   feature_item : 
       # feature item loop
