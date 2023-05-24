@@ -12,27 +12,27 @@ feature:
       content : Unleash your creativity and make a difference by contributing to open-source AI projects.
       
        # feature item loop
-     - title : Cutting-Edge AI Implementation
-       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-       content : Stay ahead of the curve with our comprehensive resources for expanding your AI skill set.
+    - title : Cutting-Edge AI Implementation
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Stay ahead of the curve with our comprehensive resources for expanding your AI skill set.
       
        # feature item loop
-     - title : Knowledge Sharing and Networking
-       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-       content : Connect with AI enthusiasts, researchers, and developers to exchange ideas and stay informed.
+    - title : Knowledge Sharing and Networking
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Connect with AI enthusiasts, researchers, and developers to exchange ideas and stay informed.
       
        # feature item loop
-     - title : Real-World Applications
-       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-       content : Witness the transformative impact of open-source AI across diverse industries.
+    - title : Real-World Applications
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Witness the transformative impact of open-source AI across diverse industries.
       
        # feature item loop
-     - title : AI Research and Development
-       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-       content : Driving innovation through collaborative research and cutting-edge projects.
+    - title : AI Research and Development
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Driving innovation through collaborative research and cutting-edge projects.
       
        # feature item loop
-     - title : Community Support and Resources
-       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-       content : Empowering AI enthusiasts with a supportive network and valuable resources for success.
+    - title : Community Support and Resources
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons       
+      content : Empowering AI enthusiasts with a supportive network and valuable resources for success.
       
