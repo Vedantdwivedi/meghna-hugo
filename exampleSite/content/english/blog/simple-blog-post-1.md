@@ -8,6 +8,8 @@ author: Vedant Dwivedi
 
 Open-source AI has emerged as a game-changer in the healthcare industry, revolutionizing patient care and medical research. In this blog post, we dive into the transformative potential of open-source AI in healthcare and explore its applications, challenges, and future prospects.
 
+![AI](https://ychef.files.bbci.co.uk/1600x900/p0ff8hmx.webp)
+
 ## The Role of AI in Healthcare
 
 Discover how AI is reshaping healthcare delivery, from precision medicine and disease diagnosis to personalized treatment plans and drug discovery.
