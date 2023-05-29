@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-title = "Meghna"
-theme = "meghna-hugo"
+title = "Somveda"
+theme = "Somveda"
 # post pagination
 paginate = "6"
 # post excerpt
